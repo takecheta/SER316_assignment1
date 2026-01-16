@@ -25,7 +25,7 @@ implements logic for max attempts abd condition for game-over\
 feature3:\
 starts hint feature\
 completes hint feature\
-fixes logic in guess logic\
+adds hint feature to guess method\
 completes test methods\
 
 hotfix:\
